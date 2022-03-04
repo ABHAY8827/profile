@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhay surma</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
-- 🔭 I’m currently working on [Customer retention](https://github.com/ABHAY8827/Internship/tree/main/Customer%20Retention/Customer_retention)
+- 🔭 I’m currently working at [Flip robo technologies as intern](https://github.com/ABHAY8827/Internship/tree/main/Customer%20Retention/Customer_retention)
 
-- 🌱 I’m currently learning **Web scraping**
+- 🌱 I’m currently learning **Selenium and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ABHAY8827](https://github.com/ABHAY8827)
 
@@ -17,8 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhay surma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay surma" height="30" width="40" /></a>
-<a href="https://kaggle.com/abhaysurma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhaysurma" height="30" width="40" /></a>
-<a href="https://instagram.com/abhay surma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay surma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/asurma44?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/asurma44?hr_r=1" height="30" width="40" /></a>
 </p>
 
