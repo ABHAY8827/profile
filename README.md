@@ -1,8 +1,8 @@
 # profile
 <h1 align="center">Hi 👋, I'm Abhay surma</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-Now machine learning engineer in eko infomatics
-- 🔭 I worked as data scientist intern in [Flip robo technologies as intern](https://github.com/ABHAY8827/Internship/tree/main/Customer%20Retention/Customer_retention)
+Currently working as Data Scientist in Dhruvtss  
+- 🔭 (https://github.com/ABHAY8827/Internship/tree/main/Customer%20Retention/Customer_retention)
 
 - 🌱 I’m currently learning **Deep Learning**
 
