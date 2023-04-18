@@ -10,9 +10,9 @@ Currently working as Data Scientist in Dhruvtss
 
 - 💬 Ask me about **Machine learning**
 
-- 📫 How to reach me **asurma44@gmail.com**
+- 📫 How to reach me **abhaysurma07@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhay-surma-644b2bb4/](https://www.linkedin.com/in/abhay-surma-644b2bb4/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abhaysurma/](https://www.linkedin.com/in/abhaysurma/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
