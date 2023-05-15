@@ -1,7 +1,7 @@
 # profile
 <h1 align="center">Hi 👋, I'm Abhay surma</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-Currently working as Data Scientist in PSINYX Technology and system solutions  
+Currently working as Data Scientist in EDVENTURE SOFTWARE PRIVATE LIMITED  
 
 - 🌱 I’m currently learning **Deep Learning**
 
